@@ -69,7 +69,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Juan Tomas but my friends call me 'JORDIS'. I am a fullstack javascript web developer. I studied in a programming bootcamp for 6 months and I have continued training with personal projects and I have been working professionally as a frontend developer since January 2023, I am always looking for challenging projects where I can learn new things, I love developing products that can be useful for clients, I enjoy creating professional web applications that are optimal and fast. You should hire me!",
+    bio: "Hello! I'm Juan Tomas but my friends call me 'JORDIS'. I am a fullstack javascript web developer. I studied in a programming bootcamp for 6 months in 2022, I have continued training with personal projects and I have been working professionally as a frontend developer since January 2023, I am always looking for challenging projects where I can learn new things, I love developing products that can be useful for clients, I enjoy creating professional web applications that are smooth and fast. You should hire me!",
     skills:
         {
             proficientWith: ['html5', 'css3','javascript', 'react', 'next.js', 'git', 'github', 'bootstrap'],
