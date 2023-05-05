@@ -1,9 +1,8 @@
 import self from "../img/self.png"
-import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
+import ReactFlix from "../img/ReactFlix.png"
+import realstate from "../img/realState.png"
+import interestCalculator from "../img/interest-calculator.png"
+import pokeApp from "../img/pokeApp.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -98,34 +97,28 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            title: "interest calculator",
+            live: "https://interest-calculator-udq2a.ondigitalocean.app/",
+            source: "https://github.com/jordislpm/interest-calculator",
+            image: interestCalculator
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock2
+            title: "Poke App",
+            live: "https://pokeapp-lf72t.ondigitalocean.app/",
+            source: "https://github.com/jordislpm/PokeApp",
+            image: pokeApp
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock3
+            title: "Real State",
+            live: "https://www.itaajrealty.com/es", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/nevobit/itaaj-monorepo", // this should be a link to the **repository** of the project, where the code is hosted.
+            image: realstate
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock4
-        },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
+            title: "ReactFlix",
+            live: "https://reactflix-cetge.ondigitalocean.app/",
+            source: "https://github.com/Tutorias-de-programacion/ReactFinalProject",
+            image: ReactFlix
         }
     ]
 }
