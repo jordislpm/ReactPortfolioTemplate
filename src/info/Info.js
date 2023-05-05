@@ -3,6 +3,7 @@ import ReactFlix from "../img/ReactFlix.png"
 import realstate from "../img/realState.png"
 import interestCalculator from "../img/interest-calculator.png"
 import pokeApp from "../img/pokeApp.png"
+import NEVOBIT from "../img/NEVOBIT.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -119,6 +120,17 @@ export const info = {
             live: "https://reactflix-cetge.ondigitalocean.app/",
             source: "https://github.com/Tutorias-de-programacion/ReactFinalProject",
             image: ReactFlix
+        }
+    ],
+    experience: [ // This is where your portfolio projects will be detailed
+        {
+            title: "NEVOBIT",
+            linkedin: "https://www.linkedin.com/company/novebit/mycompany/",
+            source: "https://github.com/jordislpm/interest-calculator",
+            image: NEVOBIT,
+            link: "https://www.nevobit.com/",
+            icon: "fa fa-linkedin",
+            label: 'linkedin'
         }
     ]
 }

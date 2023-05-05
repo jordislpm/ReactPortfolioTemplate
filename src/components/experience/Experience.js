@@ -7,9 +7,16 @@ export default function Experience() {
     return (
         <Box>
             <Grid container display={'flex'} justifyContent={'center'}>
-                {info.portfolio.map((project, index) => (
+                {info.experience.map((project, index) => (
                    <Grid item xs={12} md={6} key={index}>
-                       <ExperienceBlock image={project.image} live={project.live} source={project.source} title={project.title} />
+                       <ExperienceBlock 
+                       image={project.image} 
+                       live={project.live} 
+                       source={project.source} 
+                       title={project.title}
+                       link={project.linkedin}
+                       icon={project.icon}
+                       label={project.label}/>
                    </Grid>
                 ))}
             </Grid>
