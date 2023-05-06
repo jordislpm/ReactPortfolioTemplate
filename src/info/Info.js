@@ -46,14 +46,9 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com/jordislpm",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
-            link: "https://instagram.com/jordislpm",
-            icon: 'fa fa-instagram',
-            label: 'instagram'
+            link: "https://wa.link/xjvyv1",
+            icon: 'fa fa-whatsapp',
+            label: 'whatsapp'
         },
         {
             link: "https://github.com/jordislpm",
@@ -123,6 +118,15 @@ export const info = {
         }
     ],
     experience: [ // This is where your portfolio projects will be detailed
+        {
+            title: "NEVOBIT",
+            linkedin: "https://www.linkedin.com/company/novebit/mycompany/",
+            source: "https://github.com/jordislpm/interest-calculator",
+            image: NEVOBIT,
+            link: "https://www.nevobit.com/",
+            icon: "fa fa-linkedin",
+            label: 'linkedin'
+        },
         {
             title: "NEVOBIT",
             linkedin: "https://www.linkedin.com/company/novebit/mycompany/",

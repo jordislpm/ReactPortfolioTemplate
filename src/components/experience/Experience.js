@@ -2,6 +2,7 @@ import React from 'react';
 import ExperienceBlock from "./ExperienceBlock";
 import {Box, Grid} from "@mui/material";
 import {info} from "../../info/Info";
+import style from "./experience.module.scss";
 
 export default function Experience() {
     return (
