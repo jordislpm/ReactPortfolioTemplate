@@ -94,13 +94,13 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "interest calculator",
-            live: "https://interest-calculator-udq2a.ondigitalocean.app/",
+            live: "https://deluxe-chimera-1d8326.netlify.app/",
             source: "https://github.com/jordislpm/interest-calculator",
             image: interestCalculator
         },
         {
             title: "Poke App",
-            live: "https://pokeapp-lf72t.ondigitalocean.app/",
+            live: "https://stellar-tarsier-ffef13.netlify.app/",
             source: "https://github.com/jordislpm/PokeApp",
             image: pokeApp
         },
